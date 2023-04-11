@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.3
+title: 🪴 Josh Nielsen 3.3
 enableToc: false
 ---
 
