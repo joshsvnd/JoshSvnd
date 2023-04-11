@@ -3,8 +3,9 @@ title: 🪴 Josh Nielsen 3.3
 enableToc: false
 ---
 
-Josh Nielsen
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Here is a collection of notes about how I see the world. 
+
+your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
